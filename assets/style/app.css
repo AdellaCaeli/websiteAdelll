@@ -1,0 +1,22 @@
+body{
+    background-color: darksalmon;
+}
+.profile {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 90px;
+}
+.profileImage {
+    width: 200px;
+}
+.profile h2 {
+    color: black;
+}
+.profile h4 {
+    color: black;
+}
+.biodata {
+    background-color: #fff;
+}
